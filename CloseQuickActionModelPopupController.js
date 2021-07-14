@@ -1,6 +1,6 @@
 ({
     doInit:function(component, event,helper){
-        var w = 600;
+        var w = 650;
         var h = 320;
         var left = (screen.width/2)-(w/2);
         var top = (screen.height/2)-(h/2);
